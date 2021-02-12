@@ -2,13 +2,12 @@
 
 Já su Petr a rád bych vás naučil programovat.
 
-To možná znělo jako bych ti vykal, což jsem rozhodsně neměl v úmyslu.
+To možná znělo jako bych ti vykal, což jsem nechtěl.
 Já se chci bavit neformálně. Ale vás bude víc.
 Zakládám totiž týmový kurz – jestli se chceš přihlásit, sežeň si kamaráda,
 kolegyni, sourozence nebo náhodného kolemjdoucího.
-Psi ani kočky se nepočítají.
 
-Vítejte na tymovém kurzu Pythonu pro úplné začátečníky,
+A pak se přihlašte na týmový kurz Pythonu pro úplné začátečníky,
 který začne na konci února 2021!
 
 
@@ -127,19 +126,10 @@ Teoreticky tak můžeš kurz absolvovat i bez přihlášení, ale můžu tě uji
 že bez 1) týmu a 2) vyhrazeného času budeš mít mnohem,
 mnohem menší šanci uspět.
 
-Veřejné materiály jsou totiž určené hlavně pro lidi, kteří by chtěli
-zorganizovat vlastní kurz.
-To klidně udělej!
-Texty můžeš sdílet a modifikovat jak chceš, dokud uvedeš původní autory
-a zachováš licenci.
-Na videa na YouTube smíš odkázat nebo je celé, i s popiskem, zkopírovat.
-Pokud je budeš chtít použít jinak, tak se prosím ozvi – třeba v komentářích.
-
 
 ## Co očekávat
 
-Tak. To byla cena. Ale za co?
-Co se v tomhle kurzu vlastně naučíš?
+A když uspěješ, co se v tomhle kurzu vlastně naučíš?
 
 Budou to **základy programování**, neboli
 to, co budeš potřebovat v jakémkoli odvětví, kde je programování potřeba –
@@ -209,7 +199,10 @@ programovat.
 Pokud už nějaké kurzy nebo pokusy za sebou máš, budeš se (minimálně
 ze začátku) nudit.
 
-Kromě času a motivace, což bude to nejdůležitější, bude každý z vás potřebovat
+Kromě času a motivace, což bude to nejdůležitější, budete potřebovat
+základní vybavení a znalostí.
+
+Každý z vás bude potřebovat
 vlastní počítač s operačním systémem Linux, Windows nebo macOS.
 Máš-li jiný systém, jako Android nebo ChromeOS, tak máš jako začátečník nejspíš
 smůlu: znám sice lidi, kteří takový systém teoreticky umí nastavit,
@@ -234,7 +227,17 @@ Ve většině videí nebudu ukazovat koronavous, ale spoustu
 textu zhruba téhle velikosti.
 A ty ho budeš muset číst.
 
-Dál budeš potřebovat základy ovládání počítače.
+Kromě obrazovky se vyplatí mít přístup k tiskárně.
+V průběhu kurzu vám dám ke stažení několik taháků, které si můžete
+vytisknout a mít po ruce.
+Nejsme ve škole; není potřeba se znalosti drtit nazpaměť.
+Co si nezapamatuješ časem a opakováním, to není důležité nosit v hlavě;
+tahák nebo internet stačí.
+
+Takže potřebuješ počítač, obrazovku a přístup k tiskárně.
+A co znalosti?
+
+Budeš potřebovat základy ovládání počítače.
 Potřebuješ umět vytvořit a najít soubor nebo adresář (složku).
 Potřebuješ umět nainstalovat nový program.
 Jestli máš pochybnosti, projdi si úvodní lekci – ta je z tohoto
@@ -245,6 +248,10 @@ třeba co je to dělení se zbytkem nebo obsah čtverce.
 Detaily nejsou potřeba, vzorečky se dají najít na Wikipedii.
 Spíš potřebuješ vědět že když máš pokoj tři krát čtyři metry,
 tak se tyhle čísla dají nějak zkombinovat a zjistíš výměru podlahy.
+
+To by bylo vybavení a znalosti, které budeš potřebovat.
+Kromě toho budeš mít ještě tři povinnosti: zpětnou vazbu,
+o které už jsem mluvil, diskusi a domácí úkoly.
 
 
 ### Diskuse
@@ -269,15 +276,11 @@ internetu, ale nic z toho nepředčí kurzovou diskuzi, kde se všichni
 snažíme šít odpovědi na míru přímo vám.
 Dobře odpovídat je nakonec taky schopnost, a my bychom si ji rádi natrénovali.
 
-Ptaní se je tedy nejdůležitější povinnost, kterou budeš na kurzu mít.
-Kromě toho budete mít ještě dvě povinnosti: zpětnou vazbu,
-o které už jsem mluvil, a domácí úkoly.
-
 
 ### Domácí úkoly
 
-Přihlášeným týmům přijde odkaz na takzvané „odevzdávátko“, web kam můžete po
-přihlášení nahrát řešení domácích úkolů.
+Přihlášeným týmům taky přijde odkaz na takzvané „odevzdávátko“,
+web kam můžete po přihlášení nahrát řešení domácích úkolů.
 To je povinné.
 Ne kvůli mně – když to neodevzdáte, tak mně to, upřímně, jenom ulehčí práci.
 Povinné je to kvůli vám.
