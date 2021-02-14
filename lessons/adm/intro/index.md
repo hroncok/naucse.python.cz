@@ -1,6 +1,6 @@
 # Ahoj!
 
-Já su Petr a rád bych vás naučil programovat.
+Já jsem Petr a rád bych vás naučil programovat.
 
 To možná znělo jako bych ti vykal, což jsem nechtěl.
 Já se chci bavit neformálně. Ale vás bude víc.
@@ -13,39 +13,33 @@ který začne na konci února 2021!
 
 ## Týmy
 
-Proč týmovém?
+Proč je kurz týmový?
 
 Už nějakou dobu učím prezenční kurzy.
-Myslím si, že to nejdůležitější co takový kurz je *motivace*: když je každé
-pondělí sraz, je složitější se na to jeden týden vykašlat, než když je celý
-kurz k dispozici online.
-A po jednom vynechaném týdnu je zase jednoduché vynechat další, a pak další,
+Myslím si, že to nejdůležitější co takový kurz nabízí je *motivace*: když je každé
+pondělí sraz který nejde odložit, je složitější se na to jeden týden vykašlat,
+než když je celý kurz kdykoli k dispozici.
+A po jednom vynechaném týdnu je jednoduché vynechat další týden, a pak další,
 a tak dál.
-Doufám, že v týmu bude takové vynechávání složitější.
+Doufám, že v týmu bude takové vynechávání složitější.
 
 Další co prezenční kurz přináší jsou lidi.
 Na začátku potkáš na jedné straně lidi kteří se učí to samé co ty a na druhé
 lidi co tě to chtějí naučit.
 Ke konci kurzu máš z obou skupin kamarády; za pár let třeba kolegy.
-S online kurzem je tohle složité, ale doufám že týmy to aspoň trochu vynahradí.
-
-I organizačně se snad týmy vyplatí: až budeme opravovat odevzdané úlohy
-nebo diskutovat o zajímavých otázkách, můžeme často pracovat s celým týmem
-dohromady místo s jednotlivými účastníky.
+S online kurzem je tohle složité, ale doufám že týmy to aspoň trochu vynahradí.
 
 
 ## Proč do toho jdu já?
 
-Asi sedm let zpátky jsem zkusil programování naučit i ostatní.
+Asi sedm let zpátky jsem zkusil učit programování.
 A docela se mi to zalíbilo.
-Od té doby piluju začátečnický kurz, aby byl co nejužitečnější a
-nejpřehlednější.
+Od té doby piluju začátečnický kurz, aby byl co nejužitečnější a nejpřehlednější.
 Pilně testuju na lidech, abych si ověřil že to celé má smysl.
-Když jsem se pak před epidemií rozhlédl po kanceláři,
-viděl jsem známé z minulých kurzů, jak si našli práci.
-Takže myslím že to smysl má.
+A podle zpětné vazby i podle kolegů, kteří si i díky tomuhle kurzu našli práci,
+myslím že to smysl má.
 
-Myšlenka kurz natočit na video nás napadla už dávno, ale takové video
+Myšlenka kurz natočit na video nás napadla už dávno, ale takové video
 vyžaduje úplně jiný přístup – když se podíváte na záznamy z prezenčních kurzů,
 zjistíte že když jste tam nebyli, učí se podle nich docela špatně.
 Takže až teď, když jsou lidi zakázaní, je čas na YouTube.
@@ -78,7 +72,8 @@ budete zkoušet.
 Připravte se na to, že tím zkoušením strávíte minimálně osm hodin týdně.
 Podle toho kolik už znáte to ze začátku může být míň, ale časem určitě
 přitvrdíme.
-Pokud nežijete v jedné domácnosti, domluvte se na pravidelné videohovory přes
+Pokud nežijete v rámci týmu v jedné domácnosti,
+domluvte se na pravidelné videohovory přes
 nějakou službu, která umožňuje sdílet obrazovku: [Jitsi], [Google Meet],
 [Zoom] a podobně.
 Bohužel to nejde jinak, podobně jako u sportu nebo hry na hudební nástroj:
@@ -189,31 +184,29 @@ programování budou hodit.
 
 Tak.
 Neodradilo tě to?
-Pojďme si povědět, co od vás budu očekávat.
+Pojďme si povědět, co od vás budu očekávat.
 
 
 ## Co očekáváme od vás
 
-Tenhle kurz je pro úplné začátečníky. Takže lidi, co ještě nikdy nezkoušeli
-programovat.
-Pokud už nějaké kurzy nebo pokusy za sebou máš, budeš se (minimálně
-ze začátku) nudit.
-
 Kromě času a motivace, což bude to nejdůležitější, budete potřebovat
-základní vybavení a znalostí.
+základní vybavení a znalosti.
+
+
+### Vybavení
 
 Každý z vás bude potřebovat
-vlastní počítač s operačním systémem Linux, Windows nebo macOS.
+vlastní  s operačním systémem Linux, Windows nebo macOS.
 Máš-li jiný systém, jako Android nebo ChromeOS, tak máš jako začátečník nejspíš
 smůlu: znám sice lidi, kteří takový systém teoreticky umí nastavit,
 ale neznám nikoho, kdo by ho pak reálně na programování používal.
 
 Jestli máš pochybnosti, projdi si úvodní lekci.
-Když se ti povede instalace, zbytek kurzu pak zvládneš taky.
+Když se ti podarí všechno nainstalovat, zbytek kurzu pak zvládneš taky.
 
 Ideální je na kurz mít dvě obrazovky: na jedné budeš sledovat to,
 co budu vykládat, a na druhé si to můžeš rovnou zkoušet.
-Máš-li obrazovku navíc, připoj si ji k laptopu.
+Máš-li obrazovku navíc, připoj si ji k laptopu.
 Máš-li chytrou televizi nebo velký tablet, pusť si YouTube na ní.
 Nemáš-li ani jedno, nejlépe zainvestuj do monitoru.
 Nepotřebuješ žádné skvělé funkce jako věrné podání barev nebo rychlou
@@ -227,17 +220,27 @@ Ve většině videí nebudu ukazovat koronavous, ale spoustu
 textu zhruba téhle velikosti.
 A ty ho budeš muset číst.
 
-Kromě obrazovky se vyplatí mít přístup k tiskárně.
-V průběhu kurzu vám dám ke stažení několik taháků, které si můžete
+Kromě obrazovky se vyplatí mít přístup k tiskárně.
+V průběhu kurzu vám dám ke stažení několik taháků, které si můžete
 vytisknout a mít po ruce.
 Nejsme ve škole; není potřeba se znalosti drtit nazpaměť.
 Co si nezapamatuješ časem a opakováním, to není důležité nosit v hlavě;
 tahák nebo internet stačí.
 
 Takže potřebuješ počítač, obrazovku a přístup k tiskárně.
+
+
+### Znalosti
 A co znalosti?
 
-Budeš potřebovat základy ovládání počítače.
+Tenhle kurz je pro úplné začátečníky. Takže lidi, co ještě nikdy nezkoušeli
+programovat.
+Pokud už nějaké kurzy nebo pokusy za sebou máš, budeš se (minimálně
+ze začátku) nudit.
+
+Zvaz, jestli je to kurz pro tebe.
+
+Co potřebovat budeš jsou základy ovládání počítače.
 Potřebuješ umět vytvořit a najít soubor nebo adresář (složku).
 Potřebuješ umět nainstalovat nový program.
 Jestli máš pochybnosti, projdi si úvodní lekci – ta je z tohoto
@@ -247,7 +250,7 @@ A poslední co budeš potřebovat jsou základy matematiky ze základky:
 třeba co je to dělení se zbytkem nebo obsah čtverce.
 Detaily nejsou potřeba, vzorečky se dají najít na Wikipedii.
 Spíš potřebuješ vědět že když máš pokoj tři krát čtyři metry,
-tak se tyhle čísla dají nějak zkombinovat a zjistíš výměru podlahy.
+tak se tyhle čísla dají nějak zkombinovat a zjistíš výměru podlahy.
 
 To by bylo vybavení a znalosti, které budeš potřebovat.
 Kromě toho budeš mít ještě tři povinnosti: zpětnou vazbu,
@@ -299,7 +302,7 @@ Vy se to chcete naučit; vy musíte vědět jak moc vám vadí že nestíháte.)
 
 ## Tipy a triky – YouTube
 
-Tak, teď víte, jak bude kurz probíhat.
+Tak, teď víš, jak bude kurz probíhat a co k nemu potrebujes.
 Než začneme, dám vám ještě pár tipů na to, jak se na tahle videa dívat.
 
 1. Jak už jsem říkal, pusť si video na jedné obrazovce a na druhé si zkoušej
@@ -308,7 +311,7 @@ Než začneme, dám vám ještě pár tipů na to, jak se na tahle videa dívat.
    70-20-10.
 2. Video jde zastavit – buď klikneš myší nebo na YouTube mezerníkem.
    Na některých kombinacích systému, prohlížeče a klávesnice je dokonce
-   tlačítko, které video zastaví aniž by byl prohlížeč aktivní.
+   tlačítko "pauza", které video zastaví nebo spustí aniž by byl prohlížeč aktivní.
    Doporučuju ho zkusit najít.
    Takže když nestíháš, dej si pauzu a dožeň mě.
    Když se ztratíš moc, múžeš si otevřít textovou verzi lekce – v té se
