@@ -33,7 +33,7 @@ plan:
 - slug: expressions
   title: 'Výrazy a podmínky'
   date: 2021-03-01
-  materials:
+  future-materials:
   - lesson: beginners/first-steps
   - lesson: beginners/hello-world
   - lesson: beginners/print
@@ -47,7 +47,7 @@ plan:
 - slug: loops
   title: 'Funkce a cykly'
   date: 2021-03-08
-  materials:
+  future-materials:
   - lesson: beginners/expressions
   - lesson: beginners/and-or
   - lesson: beginners/functions
@@ -66,7 +66,7 @@ plan:
 - slug: str
   title: 'Řetězce'
   date: 2021-03-15
-  materials:
+  future-materials:
   - lesson: beginners/str
   - lesson: beginners/str-index-slice
   - lesson: beginners/str-methods
@@ -82,7 +82,7 @@ plan:
 - slug: def
   title: 'Vlastní funkce'
   date: 2021-03-22
-  materials:
+  future-materials:
   - lesson: beginners/def
   - lesson: beginners/nested-traceback
   - lesson: beginners/local-variables
@@ -97,7 +97,7 @@ plan:
 - slug: exc
   title: 'Chyby a moduly'
   date: 2021-03-29
-  materials:
+  future-materials:
   - lesson: beginners/exceptions
   - lesson: beginners/modules
   - title: Výjimkový tahák (PDF)
@@ -111,7 +111,7 @@ plan:
 - slug: test
   title: 'Rozhraní a testy'
   date: 2021-04-05
-  materials:
+  future-materials:
   - lesson: beginners/circular-imports
   - lesson: beginners/interfaces
   - lesson: beginners/testing
@@ -123,7 +123,7 @@ plan:
 - slug: list
   title: 'Seznamy a n-tice'
   date: 2021-04-12
-  materials:
+  future-materials:
   - lesson: beginners/list
   - lesson: beginners/tuple
   - lesson: beginners/nested-list
@@ -138,7 +138,7 @@ plan:
 - slug: file
   title: 'Sekvence a soubory'
   date: 2021-04-19
-  materials:
+  future-materials:
   - lesson: beginners/range
   - lesson: beginners/zip-enumerate
   - lesson: beginners/files
@@ -150,7 +150,7 @@ plan:
 - slug: dict
   title: 'Slovníky'
   date: 2021-04-26
-  materials:
+  future-materials:
   - lesson: beginners/dict
   - lesson: intro/json
   - title: Slovníkový tahák (PDF)
@@ -163,7 +163,7 @@ plan:
 - slug: class
   title: 'Třídy a dědičnost'
   date: 2021-05-03
-  materials:
+  future-materials:
   - title: Turnaj v piškvorkách
     url: null
   - lesson: beginners/class
