@@ -6,9 +6,9 @@ default_time:
   end: '20:00'
 description: Naučte se programovat pěkně od začátku.
 long_description: |
-    Informace o kurzu najdete v [připomínkovatelném dokumentu][gdoc].
+    Týmový kurz pro začátečníky!
 
-    [gdoc]: https://docs.google.com/document/d/1Ln_Q6PXGfVqvC57D7NM6mYIzx1tM69AhMKXQH7wCirM/edit#heading=h.wq8ugqi1r6rh
+    Informace najdeš v [úvodním videu](https://youtu.be/so10Ud-YlKE).
 
 vars:
   coach-present: true
