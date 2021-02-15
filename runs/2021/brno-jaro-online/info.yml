@@ -19,6 +19,8 @@ plan:
   serial: 0
   date: 2021-02-22
   materials:
+  - url: https://youtu.be/so10Ud-YlKE
+    title: Úvod – video
   - lesson: adm/intro
   - lesson: beginners/cmdline
   - lesson: beginners/install
