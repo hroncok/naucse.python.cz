@@ -196,7 +196,7 @@ základní vybavení a znalosti.
 ### Vybavení
 
 Každý z vás bude potřebovat
-vlastní  s operačním systémem Linux, Windows nebo macOS.
+vlastní počítač s operačním systémem Linux, Windows nebo macOS.
 Máš-li jiný systém, jako Android nebo ChromeOS, tak máš jako začátečník nejspíš
 smůlu: znám sice lidi, kteří takový systém teoreticky umí nastavit,
 ale neznám nikoho, kdo by ho pak reálně na programování používal.
@@ -238,18 +238,18 @@ programovat.
 Pokud už nějaké kurzy nebo pokusy za sebou máš, budeš se (minimálně
 ze začátku) nudit.
 
-Zvaz, jestli je to kurz pro tebe.
+Zvaž, jestli je to kurz pro tebe.
 
-Co potřebovat budeš jsou základy ovládání počítače.
+Co potřebovat budeš, jsou základy ovládání počítače.
 Potřebuješ umět vytvořit a najít soubor nebo adresář (složku).
 Potřebuješ umět nainstalovat nový program.
 Jestli máš pochybnosti, projdi si úvodní lekci – ta je z tohoto
 pohledu nejsložitější; všechno ostatní pak bude relativně jednoduché.
 
-A poslední co budeš potřebovat jsou základy matematiky ze základky:
+A poslední, co budeš potřebovat, jsou základy matematiky ze základky:
 třeba co je to dělení se zbytkem nebo obsah čtverce.
 Detaily nejsou potřeba, vzorečky se dají najít na Wikipedii.
-Spíš potřebuješ vědět že když máš pokoj tři krát čtyři metry,
+Spíš potřebuješ vědět, že když máš pokoj tři krát čtyři metry,
 tak se tyhle čísla dají nějak zkombinovat a zjistíš výměru podlahy.
 
 To by bylo vybavení a znalosti, které budeš potřebovat.
@@ -264,8 +264,8 @@ tak nováčci.
 Každý v rámci svých možností rád pomůže.
 
 Tuhle diskusi využívej.
-*Ptát se* je zdaleka to nejužitečnější co můžeš udělat,
-abyste se naučil{{a}} programovat.
+*Ptát se* je zdaleka to nejužitečnější, co můžeš udělat,
+aby ses naučil{{a}} programovat.
 Dělají to všichni.
 Programování je tak široký obor, že v něm nikdo neví všechno.
 Na všech úrovních je důležité vědět, koho se zeptat a jak se dobře ptát.
@@ -297,12 +297,12 @@ i kdyby třeba trochu odbíhala od tématu, ptejte se taky!
 
 (Ale kdybyste se někdy chtěli zeptat, jestli vadí že nestíháte úkol,
 tak tohle je otázka spíš na vás, ne na nás.
-Vy se to chcete naučit; vy musíte vědět jak moc vám vadí že nestíháte.)
+Vy se to chcete naučit; vy musíte vědět jak moc vám vadí, že nestíháte.)
 
 
 ## Tipy a triky – YouTube
 
-Tak, teď víš, jak bude kurz probíhat a co k nemu potrebujes.
+Tak, teď víš, jak bude kurz probíhat a co k němu potřebuješ.
 Než začneme, dám vám ještě pár tipů na to, jak se na tahle videa dívat.
 
 1. Jak už jsem říkal, pusť si video na jedné obrazovce a na druhé si zkoušej
@@ -314,11 +314,11 @@ Než začneme, dám vám ještě pár tipů na to, jak se na tahle videa dívat.
    tlačítko "pauza", které video zastaví nebo spustí aniž by byl prohlížeč aktivní.
    Doporučuju ho zkusit najít.
    Takže když nestíháš, dej si pauzu a dožeň mě.
-   Když se ztratíš moc, múžeš si otevřít textovou verzi lekce – v té se
+   Když se ztratíš moc, můžeš si otevřít textovou verzi lekce – v té se
    mnohem líp hledá. Odkaz bude vždycky v popisku.
 3. Video jde zrychlit a zpomalit pomocí kláves <kbd>&gt;</kbd>
    a <kbd>&lt;</kbd> nebo vybráním rychlosti z menu.
-   Takže jestli ti nesedí jak rychle mluvím, změň to.
+   Takže jestli ti nesedí, jak rychle mluvím, změň to.
 
 
 ## Jdete do toho?
